@@ -39,6 +39,6 @@ const calculator = {
 
 };
 
-calculator.function1("w", "w")
+calculator.function1("simonaaaaa", "w")
 console.log(calculator.rectangleArea(1.1,2));
 calculator.travelledDistance(11,12)
