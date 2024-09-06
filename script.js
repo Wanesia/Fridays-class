@@ -32,7 +32,7 @@ function travelledDistance(v, t){
 }
 
 const calculator = {
-    ownerName: "Wan",
+    ownerName: "Wanesa",
     function1: function1,
     rectangleArea: rectangleArea,
     travelledDistance: travelledDistance,
